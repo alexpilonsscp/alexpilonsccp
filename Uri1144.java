@@ -1,0 +1,10 @@
+import java.util.Scanner;
+public class Uri1144{
+    public static void main(String args[]){
+        Scanner teclado = new Scanner(System.in);
+
+        int n;
+
+        n = teclado.nextInt();
+
+        
